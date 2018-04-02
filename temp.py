@@ -8,7 +8,7 @@ window.geometry('450x300')
 
 
 
-#welcome image come on!
+#welcome image come on!baby
 canvas = tk.Canvas(window,height=200,width=700)
 image_file = tk.PhotoImage(file = 'welcome.gif')
 image = canvas.create_image(0,0,anchor='nw',image=image_file)
